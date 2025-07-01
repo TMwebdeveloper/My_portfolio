@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: "bootstrap-icons";
   src: url("../fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"),
 url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("woff");
@@ -1553,4 +1553,4 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-displayport-fill::before { content: "\f6fc"; }
 .bi-mortarboard-fill::before { content: "\f6fd"; }
 .bi-mortarboard::before { content: "\f6fe"; }
-.bi-terminal-x::before { content: "\f6ff"; }
+.bi-terminal-x::before { content: "\f6ff"; } */
